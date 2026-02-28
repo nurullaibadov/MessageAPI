@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MessageAPI.API/MessageAPI.API.csproj" />
+  <Project Path="MessageAPI.Application/MessageAPI.Application.csproj" />
+  <Project Path="MessageAPI.Domain/MessageAPI.Domain.csproj" />
+  <Project Path="MessageAPI.Infrastructure/MessageAPI.Infrastructure.csproj" />
+</Solution>

@@ -1,0 +1,997 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Backend\\MessageAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|c:\\backend\\messageapi\\messageapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|solutionrelative:messageapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|c:\\backend\\messageapi\\messageapi.api\\logs\\log-20260228.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|solutionrelative:messageapi.api\\logs\\log-20260228.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Migrations\\20260228130051_addalllltbssssssssssssss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MessageAPI.Infrastructure\\Migrations\\20260228130051_addalllltbssssssssssssss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|c:\\backend\\messageapi\\messageapi.api\\messageapi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|solutionrelative:messageapi.api\\messageapi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\messageapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\messageapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\repositories\\friendshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\repositories\\friendshiprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\services\\conversationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\services\\conversationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|c:\\backend\\messageapi\\messageapi.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|solutionrelative:messageapi.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|c:\\backend\\messageapi\\messageapi.api\\controllers\\conversationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|solutionrelative:messageapi.api\\controllers\\conversationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|c:\\backend\\messageapi\\messageapi.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|solutionrelative:messageapi.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|c:\\backend\\messageapi\\messageapi.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|solutionrelative:messageapi.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|c:\\backend\\messageapi\\messageapi.application\\interfaces\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|solutionrelative:messageapi.application\\interfaces\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\interfaces\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\interfaces\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\signalr\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\signalr\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\services\\friendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\services\\friendshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\entities\\conversationparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\entities\\conversationparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|c:\\backend\\messageapi\\messageapi.application\\dtos\\other.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|solutionrelative:messageapi.application\\dtos\\other.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|c:\\backend\\messageapi\\messageapi.application\\dtos\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|solutionrelative:messageapi.application\\dtos\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|c:\\backend\\messageapi\\messageapi.application\\dtos\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|solutionrelative:messageapi.application\\dtos\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|c:\\backend\\messageapi\\messageapi.api\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|solutionrelative:messageapi.api\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|c:\\backend\\messageapi\\messageapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|solutionrelative:messageapi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|c:\\backend\\messageapi\\messageapi.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|solutionrelative:messageapi.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\entities\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\entities\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\repositories\\conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\repositories\\conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\entities\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\entities\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|c:\\backend\\messageapi\\messageapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|solutionrelative:messageapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|c:\\backend\\messageapi\\messageapi.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|solutionrelative:messageapi.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|c:\\backend\\messageapi\\messageapi.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42935D64-B465-4356-B1BF-F52C4DB80E83}|MessageAPI.API\\MessageAPI.API.csproj|solutionrelative:messageapi.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\settings\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\settings\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|c:\\backend\\messageapi\\messageapi.infrastructure\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40393F19-5452-4E5E-8DD1-9BE684E9BF4B}|MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj|solutionrelative:messageapi.infrastructure\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|c:\\backend\\messageapi\\messageapi.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|solutionrelative:messageapi.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|c:\\backend\\messageapi\\messageapi.application\\validators\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|solutionrelative:messageapi.application\\validators\\validators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|c:\\backend\\messageapi\\messageapi.application\\dtos\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A029E34-9027-403A-ABBC-A2BF3200A5D0}|MessageAPI.Application\\MessageAPI.Application.csproj|solutionrelative:messageapi.application\\dtos\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\entities\\messagereaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\entities\\messagereaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\entities\\messagereadstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\entities\\messagereadstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|c:\\backend\\messageapi\\messageapi.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504E3C12-35C8-4DA9-94C2-B126426CBCBA}|MessageAPI.Domain\\MessageAPI.Domain.csproj|solutionrelative:messageapi.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "log-20260228.txt",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Logs\\log-20260228.txt",
+              "RelativeDocumentMoniker": "MessageAPI.API\\Logs\\log-20260228.txt",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Logs\\log-20260228.txt",
+              "RelativeToolTip": "MessageAPI.API\\Logs\\log-20260228.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-28T13:01:15.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260228130051_addalllltbssssssssssssss.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Migrations\\20260228130051_addalllltbssssssssssssss.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Migrations\\20260228130051_addalllltbssssssssssssss.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Migrations\\20260228130051_addalllltbssssssssssssss.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Migrations\\20260228130051_addalllltbssssssssssssss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T13:00:53.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Program.cs",
+              "RelativeDocumentMoniker": "MessageAPI.API\\Program.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Program.cs",
+              "RelativeToolTip": "MessageAPI.API\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAJAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:07:54.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:06:51.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageAPI.Infrastructure",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\MessageAPI.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-28T12:09:54.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageAPI.API",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.API\\MessageAPI.API.csproj",
+              "RelativeDocumentMoniker": "MessageAPI.API\\MessageAPI.API.csproj",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.API\\MessageAPI.API.csproj",
+              "RelativeToolTip": "MessageAPI.API\\MessageAPI.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-28T12:52:32.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Services\\MessageService.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\MessageService.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Services\\MessageService.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAwJUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:13:35.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:06:00.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:06:38.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv1gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:03:19.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:05:46.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\NotificationService.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:42:21.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotificationRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\NotificationRepository.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Repositories\\NotificationRepository.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\NotificationRepository.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Repositories\\NotificationRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:41:33.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FriendshipRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\FriendshipRepository.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Repositories\\FriendshipRepository.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\FriendshipRepository.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Repositories\\FriendshipRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA9wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:41:23.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConversationsController.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\ConversationsController.cs",
+              "RelativeDocumentMoniker": "MessageAPI.API\\Controllers\\ConversationsController.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\ConversationsController.cs",
+              "RelativeToolTip": "MessageAPI.API\\Controllers\\ConversationsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:15:13.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "MessageAPI.API\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "MessageAPI.API\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:08:45.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConversationService.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\ConversationService.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Services\\ConversationService.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\ConversationService.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Services\\ConversationService.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAJEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:13:50.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\AdminService.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Services\\AdminService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:14:17.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MessageAPI.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MessageAPI.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAuwGUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:16:05.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\JwtService.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Services\\JwtService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:03:54.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "MessageAPI.Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:02:42.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IServices.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\Interfaces\\IServices.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Application\\Interfaces\\IServices.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\Interfaces\\IServices.cs",
+              "RelativeToolTip": "MessageAPI.Application\\Interfaces\\IServices.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:00:37.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Common\\Result.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Common\\Result.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Common\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:23:49.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:27:40.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Repositories.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Interfaces\\Repositories.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Interfaces\\Repositories.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Interfaces\\Repositories.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Interfaces\\Repositories.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA5wEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:34:44.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\SignalR\\ChatHub.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\SignalR\\ChatHub.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\SignalR\\ChatHub.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\SignalR\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:04:40.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FriendshipService.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\FriendshipService.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Services\\FriendshipService.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\FriendshipService.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Services\\FriendshipService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:14:31.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConversationParticipant.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\ConversationParticipant.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Entities\\ConversationParticipant.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\ConversationParticipant.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Entities\\ConversationParticipant.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:19:19.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Other.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\DTOs\\Other.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Application\\DTOs\\Other.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\DTOs\\Other.cs",
+              "RelativeToolTip": "MessageAPI.Application\\DTOs\\Other.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:25:47.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\DTOs\\Messages.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Application\\DTOs\\Messages.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\DTOs\\Messages.cs",
+              "RelativeToolTip": "MessageAPI.Application\\DTOs\\Messages.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:35:44.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Enums\\Enums.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Enums\\Enums.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Enums\\Enums.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:23:17.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\DTOs\\Users.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Application\\DTOs\\Users.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\DTOs\\Users.cs",
+              "RelativeToolTip": "MessageAPI.Application\\DTOs\\Users.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA/wBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:36:14.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "MessageAPI.API\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "MessageAPI.API\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:15:41.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MessageAPI.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MessageAPI.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:14:55.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MessageAPI.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MessageAPI.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:16:30.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Conversation.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\Conversation.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Entities\\Conversation.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\Conversation.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Entities\\Conversation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:18:54.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ConversationRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\ConversationRepository.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Repositories\\ConversationRepository.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\ConversationRepository.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Repositories\\ConversationRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:06:25.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Friendship.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\Friendship.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Entities\\Friendship.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\Friendship.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Entities\\Friendship.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:22:19.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Entities\\Message.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\Message.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Entities\\Message.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:19:05.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:22:37.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:04:06.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:14:06.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:18:40.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MessageAPI.API\\appsettings.json",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.API\\appsettings.json",
+              "RelativeToolTip": "MessageAPI.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-28T10:50:36.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "MessageAPI.API\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "MessageAPI.API\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:16:52.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:13:16.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "MessageAPI.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "MessageAPI.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:08:26.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:07:41.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Settings\\Settings.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Settings\\Settings.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Settings\\Settings.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Settings\\Settings.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:07:28.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Infrastructure\\Repositories\\MessageRepository.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Infrastructure\\Repositories\\MessageRepository.cs",
+              "RelativeToolTip": "MessageAPI.Infrastructure\\Repositories\\MessageRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:06:12.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "MessageAPI.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:02:18.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Validators.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\Validators\\Validators.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Application\\Validators\\Validators.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\Validators\\Validators.cs",
+              "RelativeToolTip": "MessageAPI.Application\\Validators\\Validators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T12:01:20.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\DTOs\\Auth.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Application\\DTOs\\Auth.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Application\\DTOs\\Auth.cs",
+              "RelativeToolTip": "MessageAPI.Application\\DTOs\\Auth.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:35:18.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\UserRole.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:22:53.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MessageReaction.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\MessageReaction.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Entities\\MessageReaction.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\MessageReaction.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Entities\\MessageReaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:19:44.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MessageReadStatus.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\MessageReadStatus.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Entities\\MessageReadStatus.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\MessageReadStatus.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Entities\\MessageReadStatus.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:19:32.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MessageAPI.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Backend\\MessageAPI\\MessageAPI.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "MessageAPI.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:18:28.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

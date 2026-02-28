@@ -1,0 +1,12 @@
+C:\Backend\MessageAPI\MessageAPI.Domain\bin\Debug\net8.0\MessageAPI.Domain.deps.json
+C:\Backend\MessageAPI\MessageAPI.Domain\bin\Debug\net8.0\MessageAPI.Domain.dll
+C:\Backend\MessageAPI\MessageAPI.Domain\bin\Debug\net8.0\MessageAPI.Domain.pdb
+C:\Backend\MessageAPI\MessageAPI.Domain\obj\Debug\net8.0\MessageAPI.Domain.csproj.AssemblyReference.cache
+C:\Backend\MessageAPI\MessageAPI.Domain\obj\Debug\net8.0\MessageAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\MessageAPI\MessageAPI.Domain\obj\Debug\net8.0\MessageAPI.Domain.AssemblyInfoInputs.cache
+C:\Backend\MessageAPI\MessageAPI.Domain\obj\Debug\net8.0\MessageAPI.Domain.AssemblyInfo.cs
+C:\Backend\MessageAPI\MessageAPI.Domain\obj\Debug\net8.0\MessageAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Backend\MessageAPI\MessageAPI.Domain\obj\Debug\net8.0\MessageAPI.Domain.dll
+C:\Backend\MessageAPI\MessageAPI.Domain\obj\Debug\net8.0\refint\MessageAPI.Domain.dll
+C:\Backend\MessageAPI\MessageAPI.Domain\obj\Debug\net8.0\MessageAPI.Domain.pdb
+C:\Backend\MessageAPI\MessageAPI.Domain\obj\Debug\net8.0\ref\MessageAPI.Domain.dll

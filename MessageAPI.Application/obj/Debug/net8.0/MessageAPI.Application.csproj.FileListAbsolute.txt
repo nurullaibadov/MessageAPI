@@ -1,0 +1,15 @@
+C:\Backend\MessageAPI\MessageAPI.Application\bin\Debug\net8.0\MessageAPI.Application.deps.json
+C:\Backend\MessageAPI\MessageAPI.Application\bin\Debug\net8.0\MessageAPI.Application.dll
+C:\Backend\MessageAPI\MessageAPI.Application\bin\Debug\net8.0\MessageAPI.Application.pdb
+C:\Backend\MessageAPI\MessageAPI.Application\bin\Debug\net8.0\MessageAPI.Domain.dll
+C:\Backend\MessageAPI\MessageAPI.Application\bin\Debug\net8.0\MessageAPI.Domain.pdb
+C:\Backend\MessageAPI\MessageAPI.Application\obj\Debug\net8.0\MessageAPI.Application.csproj.AssemblyReference.cache
+C:\Backend\MessageAPI\MessageAPI.Application\obj\Debug\net8.0\MessageAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\MessageAPI\MessageAPI.Application\obj\Debug\net8.0\MessageAPI.Application.AssemblyInfoInputs.cache
+C:\Backend\MessageAPI\MessageAPI.Application\obj\Debug\net8.0\MessageAPI.Application.AssemblyInfo.cs
+C:\Backend\MessageAPI\MessageAPI.Application\obj\Debug\net8.0\MessageAPI.Application.csproj.CoreCompileInputs.cache
+C:\Backend\MessageAPI\MessageAPI.Application\obj\Debug\net8.0\MessageA.3328C804.Up2Date
+C:\Backend\MessageAPI\MessageAPI.Application\obj\Debug\net8.0\MessageAPI.Application.dll
+C:\Backend\MessageAPI\MessageAPI.Application\obj\Debug\net8.0\refint\MessageAPI.Application.dll
+C:\Backend\MessageAPI\MessageAPI.Application\obj\Debug\net8.0\MessageAPI.Application.pdb
+C:\Backend\MessageAPI\MessageAPI.Application\obj\Debug\net8.0\ref\MessageAPI.Application.dll
